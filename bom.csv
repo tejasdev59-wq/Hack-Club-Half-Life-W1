@@ -1,0 +1,7 @@
+"Reference","Qty","Value","Footprint","Datasheet"
+"J1","1","OLED 0.96in I2C","Starbie:Display_128x64_096_I2C",""
+"J2","1","MPU6050 GY-521","Starbie:MPU6050_Module",""
+"SW1","1","BUTTON 1","Starbie:SW_Push_6mm",""
+"SW2","1","BUTTON 2","Starbie:SW_Push_6mm",""
+"TH1","1","DHT11","Starbie:DHT11",""
+"U1","1","XIAO ESP32-C3","Starbie:XIAO-ESP32-C6-DIP",""
