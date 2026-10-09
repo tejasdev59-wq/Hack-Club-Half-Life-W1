@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 17h | 2 |
+| Week 1 | Tier 1 | 14h | 2 |
 
 ## Contents
 
@@ -47,7 +47,7 @@ I did EVERYTHING in the Starbie Week 1 guide. I spent so much time clueless abou
 
 ### 2026-10-08 – I did a script for my video, and  I recorded it. I also had to finish the requirements like add a firmware, add a repo, and make a README and add photos in it. I saved all of it to my computer in a fo
 
-**7h**
+**4h**
 
 I did a script for my video, and  I recorded it. I also had to finish the requirements like add a firmware, add a repo, and make a README and add photos in it. I saved all of it to my computer in a folder so it's secured and made a backup as well. I needed help from GEMINI becayse i have no idea how to add a firmware because it's my first time doing this (idk if it's allowed but I wanna be honest yk). Also I did my bom.csv file after tryna figure out what it was and searching the internet for the best prices. Also I'm still tryna figure out if Hack Club ships everything to your door like all the components or do we have to order tham? pls someone respond if they know. And I also am about to submit everything, so this is the final effort.
 
