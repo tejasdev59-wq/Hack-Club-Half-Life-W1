@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 13h | 2 |
+| Week 1 | Tier 1 | 17h | 2 |
 
 ## Contents
 
@@ -47,9 +47,22 @@ I did EVERYTHING in the Starbie Week 1 guide. I spent so much time clueless abou
 
 ### 2026-10-08 – I did a script for my video, and  I recorded it. I also had to finish the requirements like add a firmware, add a repo, and make a README and add photos in it. I saved all of it to my computer in a fo
 
-**3h**
+**7h**
 
-I did a script for my video, and  I recorded it. I also had to finish the requirements like add a firmware, add a repo, and make a README and add photos in it. I saved all of it to my computer in a folder so it's secured and made a backup as well. I needed help from GEMINI becayse i have no idea how to add a firmware because it's my first time doing this (idk if it's allowed but I wanna be honest yk)
+I did a script for my video, and  I recorded it. I also had to finish the requirements like add a firmware, add a repo, and make a README and add photos in it. I saved all of it to my computer in a folder so it's secured and made a backup as well. I needed help from GEMINI becayse i have no idea how to add a firmware because it's my first time doing this (idk if it's allowed but I wanna be honest yk). Also I did my bom.csv file after tryna figure out what it was and searching the internet for the best prices. Also I'm still tryna figure out if Hack Club ships everything to your door like all the components or do we have to order tham? pls someone respond if they know. And I also am about to submit everything, so this is the final effort.
+
+these 3 are me tryna figure out what do we need to put on the itens list (cmon there needs to be more guidance because I hardly went by)
+![Screenshot 2026-10-09 at 4.49.00 pm](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/y2GWGqjxMcta3m9LtTlw8UHmaVCuojqZ/759d5c77dac665cc05c3a3d263b12c72d6e78156e50d4ba621e5215e65b89924.png)
+
+![Screenshot 2026-10-09 at 4.58.50 pm](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/y2GWGqjxMcta3m9LtTlw8UHmaVCuojqZ/4069cd68758b299aaaeca0b74fac97287f65afe26a68685d750c7d886012cced.png)
+
+![Screenshot 2026-10-09 at 4.59.57 pm](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/y2GWGqjxMcta3m9LtTlw8UHmaVCuojqZ/25363437951d3258eb3ecaff4e463d09ffce5eda6e59de71123327f124c8ad8c.png)
+
+![Screenshot 2026-10-09 at 5.02.45 pm](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/y2GWGqjxMcta3m9LtTlw8UHmaVCuojqZ/2a0cf84066ce75f02b3af2d04643133cc943b4c92ba04817dd3d92a06d4e0865.png)
+final submission - woohooo
+
+![Screenshot 2026-10-09 at 4.37.50 pm](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/y2GWGqjxMcta3m9LtTlw8UHmaVCuojqZ/4ce8b9d8c68b603ac8dbd2c22fffc44431229ddb2e7d80448614e6bca80749d4.png)
+this is my list of mats needed
 
 ![Screenshot 2026-10-09 at 2.39.18 pm](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/y2GWGqjxMcta3m9LtTlw8UHmaVCuojqZ/dd198a3fc174595daf539285f1d469e876be310a6f164abea5f685f9aed6d605.png)
 spent like more than an hour figuring all of this out (im so bad with tech)
