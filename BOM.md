@@ -18,7 +18,7 @@
 | [DHT11](https://core-electronics.com.au/dht11-temperature-and-relative-humidity-sensor-module.html) | Temperature & Humidity Sensor | 1 | $1.40 | $1.40 | [Core-Electronics](https://core-electronics.com.au/dht11-temperature-and-relative-humidity-sensor-module.html) |
 | [XIAO ESP32-C3](https://www.pakronics.com.au/products/seeed-studio-xiao-esp32c3-cost-effective-tiny-microcontroller-with-complete-wi-fi-subsystem-and-ble-battery-charge-supported-power-efficiency-and-rich-interface-ss113991054?gad_source=1&gad_campaignid=21053370200&gbraid=0AAAAADiWos5sVin3z3TIwKkG1bEIFtmNW&gclid=CjwKCAjw_pzWBhAkEiwAwDCi1ScsiFCFDi5iuJLLpO_KKjh4u2p8JQbzq56VuP_3mEfD_bSUIqigLhoC110QAvD_BwE) | Microcontroller running the code | 1 | $8.60 | $8.60 | [Pakronics](https://www.pakronics.com.au/products/seeed-studio-xiao-esp32c3-cost-effective-tiny-microcontroller-with-complete-wi-fi-subsystem-and-ble-battery-charge-supported-power-efficiency-and-rich-interface-ss113991054?gad_source=1&gad_campaignid=21053370200&gbraid=0AAAAADiWos5sVin3z3TIwKkG1bEIFtmNW&gclid=CjwKCAjw_pzWBhAkEiwAwDCi1ScsiFCFDi5iuJLLpO_KKjh4u2p8JQbzq56VuP_3mEfD_bSUIqigLhoC110QAvD_BwE) |
 | **Parts subtotal** | — | — | — | **$19.70** | — |
-| **Tax & shipping** | — | — | — | **$10.30** | — |
-| **Total** | — | — | — | **$30.00** | — |
+| **Tax & shipping** | — | — | — | **$11.00** | — |
+| **Total** | — | — | — | **$30.70** | — |
 
-$0.00 left of the tier's funding.
+**$0.70 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
